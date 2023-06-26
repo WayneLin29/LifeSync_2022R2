@@ -1,0 +1,33 @@
+﻿<Actions ScreenID="LM201000">
+    <Action IsActive="True" ActionName="CopyPaste" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="Delete" ActionType="G" PlacementInCategory="0" WindowMode="S">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="First" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="Insert" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="Last" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="Next" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Action IsActive="True" ActionName="Previous" ActionType="G" PlacementInCategory="0" WindowMode="S" HideCondition="True">
+        <StateActionFields />
+        <StateActionParams />
+    </Action>
+    <Category IsActive="True" IsSystem="True" IsCustomized="False" IsCustomizedRecursive="False" DisplayName="Actions" CategoryName="Action" Placement="0" LineNbr="0" />
+    <Category IsActive="True" IsSystem="True" IsCustomized="False" IsCustomizedRecursive="False" DisplayName="Inquiries" CategoryName="Inquiry" Placement="0" After="Action" LineNbr="1" />
+    <Category IsActive="True" IsSystem="True" IsCustomized="False" IsCustomizedRecursive="False" DisplayName="Reports" CategoryName="Report" Placement="0" After="Inquiry" LineNbr="2" />
+</Actions>

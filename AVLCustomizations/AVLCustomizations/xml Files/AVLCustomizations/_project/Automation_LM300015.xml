@@ -1,0 +1,6 @@
+﻿<Automation screen="LM300015">
+    <Fields ScreenID="LM300015">
+        <Field IsActive="True" FieldName="LINENBR" HideCondition="True" ObjectName="AVLCUSTOMIZATIONS.APPROVEDVENDLISTS" />
+        <Field IsActive="True" DisplayName="Vendor" FieldName="VENDORID" ObjectName="AVLCUSTOMIZATIONS.AVLLINE" />
+    </Fields>
+</Automation>
