@@ -1,5 +1,5 @@
 ﻿<Report Name="so642010.rpx">
-    <Report Name="report1" version="20201103">
+    <Report Name="report1" version="20211215">
         <ExportFileName>=Format( 'Packing List {0}', [SOShipment.ShipmentNbr])</ExportFileName>
         <Filters>
             <FilterExp>

@@ -1,5 +1,5 @@
 ﻿<Report Name="so641010.rpx">
-    <Report Name="report1" version="20201103">
+    <Report Name="report1" version="20211215">
         <ExportFileName>=Format( 'Sales Order{0} {1}', [SOOrder.OrderType],[SOOrder.OrderNbr])</ExportFileName>
         <Filters>
             <FilterExp>
